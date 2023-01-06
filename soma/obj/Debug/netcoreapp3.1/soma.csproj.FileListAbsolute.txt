@@ -1,0 +1,13 @@
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\bin\Debug\netcoreapp3.1\soma.exe
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\bin\Debug\netcoreapp3.1\soma.deps.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\bin\Debug\netcoreapp3.1\soma.runtimeconfig.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\bin\Debug\netcoreapp3.1\soma.runtimeconfig.dev.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\bin\Debug\netcoreapp3.1\soma.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\bin\Debug\netcoreapp3.1\soma.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\obj\Debug\netcoreapp3.1\soma.csprojAssemblyReference.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\obj\Debug\netcoreapp3.1\soma.AssemblyInfoInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\obj\Debug\netcoreapp3.1\soma.AssemblyInfo.cs
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\obj\Debug\netcoreapp3.1\soma.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\obj\Debug\netcoreapp3.1\soma.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\obj\Debug\netcoreapp3.1\soma.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\soma\obj\Debug\netcoreapp3.1\soma.genruntimeconfig.cache
