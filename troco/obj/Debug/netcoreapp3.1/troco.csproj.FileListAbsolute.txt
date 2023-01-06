@@ -1,0 +1,13 @@
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\bin\Debug\netcoreapp3.1\troco.exe
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\bin\Debug\netcoreapp3.1\troco.deps.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\bin\Debug\netcoreapp3.1\troco.runtimeconfig.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\bin\Debug\netcoreapp3.1\troco.runtimeconfig.dev.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\bin\Debug\netcoreapp3.1\troco.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\bin\Debug\netcoreapp3.1\troco.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\obj\Debug\netcoreapp3.1\troco.csprojAssemblyReference.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\obj\Debug\netcoreapp3.1\troco.AssemblyInfoInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\obj\Debug\netcoreapp3.1\troco.AssemblyInfo.cs
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\obj\Debug\netcoreapp3.1\troco.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\obj\Debug\netcoreapp3.1\troco.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\obj\Debug\netcoreapp3.1\troco.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\troco\obj\Debug\netcoreapp3.1\troco.genruntimeconfig.cache
