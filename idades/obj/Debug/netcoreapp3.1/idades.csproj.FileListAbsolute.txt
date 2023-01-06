@@ -1,0 +1,13 @@
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\obj\Debug\netcoreapp3.1\idades.csprojAssemblyReference.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\obj\Debug\netcoreapp3.1\idades.AssemblyInfoInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\obj\Debug\netcoreapp3.1\idades.AssemblyInfo.cs
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\obj\Debug\netcoreapp3.1\idades.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\bin\Debug\netcoreapp3.1\idades.exe
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\bin\Debug\netcoreapp3.1\idades.deps.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\bin\Debug\netcoreapp3.1\idades.runtimeconfig.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\bin\Debug\netcoreapp3.1\idades.runtimeconfig.dev.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\bin\Debug\netcoreapp3.1\idades.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\bin\Debug\netcoreapp3.1\idades.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\obj\Debug\netcoreapp3.1\idades.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\obj\Debug\netcoreapp3.1\idades.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\exercicios\listaSequencial\idades\obj\Debug\netcoreapp3.1\idades.genruntimeconfig.cache
